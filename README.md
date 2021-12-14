@@ -8,3 +8,7 @@ To complete the screen, you will then need to hover your mouse at the end(Bottom
 
 Here is a picture to illustrate the screenshot process:
 <img src="https://i.imgur.com/Ao8RPCf.png" alt="basic-controls" style="max-width:100%;">
+
+
+After the screenshot image has been creating(in the current directory). Press Space bar to execute the typing script.
+

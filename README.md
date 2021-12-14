@@ -4,7 +4,7 @@ This script is designed to type at any given speed. Since TypeRacer.com randomiz
 # Functionality
 Upon launching the application, you will then need to select (x,y) coordinates of the text in which you would like to type. You can do this by hovering your mouse at the top left corner of the text and pressing L.CTRL.
 
-To complete the screen, you will then need to hover your mouse at the end(Bottom right) of the TypeRacer text and then press on L.ALT
+To complete the screenshot, you will then need to hover your mouse at the end(Bottom right) of the TypeRacer text and then press on L.ALT
 
 Here is a picture to illustrate the screenshot process:
 <img src="https://i.imgur.com/Ao8RPCf.png" alt="basic-controls" style="max-width:100%;">

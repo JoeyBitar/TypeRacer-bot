@@ -1,6 +1,14 @@
 # TypeRacer-bot
 This script is designed to type at any given speed. Since TypeRacer.com randomizes it's HTML element, using serenum or beautifulsoup is not possible. This script will in fact take a screenshot of the TypeRacer text and then convert it into string letters, which it will then type and allow one to get < 300 words per minute.
 
+pip install pynput.keyboard
+pip install pynput
+pip install pyscreenshot
+pip install cv2
+pip install pyautogui
+pip install pytesseract
+Make sure to download the tesseract driver https://github.com/UB-Mannheim/tesseract/wiki
+
 # Functionality
 Upon launching the application, you will then need to select (x,y) coordinates of the text in which you would like to type. You can do this by hovering your mouse at the top left corner of the text and pressing L.CTRL.
 

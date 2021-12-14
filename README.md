@@ -7,4 +7,4 @@ Upon launching the application, you will then need to select (x,y) coordinates o
 To complete the screen, you will then need to hover your mouse at the end(Bottom right) of the TypeRacer text and then press on L.ALT
 
 Here is a picture to illustrate the screenshot process:
-<img src="https://i.imgur.com/Ao8RPCf.png" alt="basic-controls" width="5000" height="400" style="max-width:100%;">
+<img src="https://i.imgur.com/Ao8RPCf.png" alt="basic-controls" width="5000" height="200" style="max-width:100%;">

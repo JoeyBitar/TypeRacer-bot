@@ -12,3 +12,5 @@ Here is a picture to illustrate the screenshot process:
 
 After the screenshot image has been creating(in the current directory). Press Space bar to execute the typing script.
 
+
+Results:<img src="https://i.imgur.com/bxJOIK5.png" alt="basic-controls" style="max-width:100%;">
